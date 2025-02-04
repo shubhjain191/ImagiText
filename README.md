@@ -1,4 +1,4 @@
-# 🚀 ImagiText – Transform Your Imagination into Reality with AI! 🎨✨  
+# 🚀 ImagiText – Transform Your Imagination into Reality with AI! 🎨
 
 ImagiText is a **powerful AI-driven Text-to-Image Generator** that brings your imagination to life! Simply input text, and our advanced AI models will generate stunning visuals. Whether you’re an artist, designer, or just someone exploring AI creativity, ImagiText is your go-to tool.  
 
